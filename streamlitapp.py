@@ -1,6 +1,7 @@
 import streamlit as st
 import pdfplumber
 
+# Logic to upload and store resume data 
 st.title('PDF File Upload Example')
 
 # File upload widget
